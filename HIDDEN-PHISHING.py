@@ -48,8 +48,8 @@ _  ____/_  __  / __/ /  ____/ /_  __  / __/ /  _  /|  / / /_/ /
 
 maintext = f"""
 {banner}
-[1] Маскировать ссылку
-[2] Укоротить ссылку
+[1] Mask link
+[2] Shorten link
 """
 os.system("termux-open-url https://t.me/AWCODE3")
 
