@@ -24,6 +24,4 @@ This tool is for educational purposes only
 
 ### Follow Ola Telegram:
 
-[▬▬⎙ 𝐀𝐖 𝐂𝐎𝐃𝐄 ⎙▬▬
-
-](https://t.me/AWCODE3)
+[▬▬⎙ 𝐀𝐖 𝐂𝐎𝐃𝐄 ⎙▬▬](https://t.me/AWCODE3)
