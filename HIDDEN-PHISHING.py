@@ -51,7 +51,7 @@ maintext = f"""
 [1] Маскировать ссылку
 [2] Укоротить ссылку
 """
-os.system("termux-open-url https://t.me/HACKER_PHONE_VIP")
+os.system("termux-open-url https://t.me/AWCODE3")
 
 # Основная часть
 while True:
