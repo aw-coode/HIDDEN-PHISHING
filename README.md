@@ -18,3 +18,10 @@ python HIDDEN-PHISHING.py
 <a href="https://twitter.com/"><img title="Twitter" src="https://img.shields.io/badge/Twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://facebook.com/"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://instagram.com/uxxky"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+### Notice:
+This tool is for educational purposes only
+
+### Follow Ola Telegram:
+
+(https://t.me/AWCODE3)[▬▬⎙ 𝐀𝐖 𝐂𝐎𝐃𝐄 ⎙▬▬]
